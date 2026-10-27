@@ -9,3 +9,5 @@
 # https://youtu.be/QqAY3VaebyY (Nested Loops Explanation) 
 
 # https://youtu.be/gGn9vADqlN8 (Events Explanation)
+
+# https://youtu.be/1TQM_Ye0bCM (Shapes using Variables) 
