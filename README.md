@@ -11,3 +11,5 @@
 # https://youtu.be/gGn9vADqlN8 (Events Explanation)
 
 # https://youtu.be/1TQM_Ye0bCM (Shapes using Variables) 
+
+# https://youtu.be/PVwZtpMRUvE (Conditional Loops)
